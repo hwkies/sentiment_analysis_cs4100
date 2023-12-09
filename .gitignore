@@ -1,1 +1,4 @@
 env
+.venv
+dataset/
+results_11-10-2016_10-16-2016/final_output.csv
